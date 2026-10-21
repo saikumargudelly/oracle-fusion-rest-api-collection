@@ -11,14 +11,14 @@ Production-aligned Postman collection providing 100% complete coverage (485 endp
 
 ## Downloads
 
-[![Download Collection](https://img.shields.io/badge/Download-Postman_Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://raw.githubusercontent.com/saikumargudelly/oracle-fusion-rest-api-collection/main/oracle_fusion_cloud_common_26c_postman_collection.json)
-[![Download Environment](https://img.shields.io/badge/Download-Environment_Template-007ACC?style=for-the-badge&logo=postman&logoColor=white)](https://raw.githubusercontent.com/saikumargudelly/oracle-fusion-rest-api-collection/main/test.postman_environment.json)
+[![Download Collection](https://img.shields.io/badge/Download-Postman_Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/saikumargudelly/oracle-fusion-rest-api-collection/releases/latest/download/oracle_fusion_cloud_common_26c_postman_collection.json)
+[![Download Environment](https://img.shields.io/badge/Download-Environment_Template-007ACC?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/saikumargudelly/oracle-fusion-rest-api-collection/releases/latest/download/test.postman_environment.json)
 
 ---
 
 ## Quick Start
 
-1. **Import:** Download and import [`oracle_fusion_cloud_common_26c_postman_collection.json`](https://raw.githubusercontent.com/saikumargudelly/oracle-fusion-rest-api-collection/main/oracle_fusion_cloud_common_26c_postman_collection.json) and [`test.postman_environment.json`](https://raw.githubusercontent.com/saikumargudelly/oracle-fusion-rest-api-collection/main/test.postman_environment.json) into Postman.
+1. **Import:** Download and import [`oracle_fusion_cloud_common_26c_postman_collection.json`](https://github.com/saikumargudelly/oracle-fusion-rest-api-collection/releases/latest/download/oracle_fusion_cloud_common_26c_postman_collection.json) and [`test.postman_environment.json`](https://github.com/saikumargudelly/oracle-fusion-rest-api-collection/releases/latest/download/test.postman_environment.json) into Postman.
 2. **Select Environment:** Choose `Oracle Fusion Cloud Common Environment - TEST`.
 3. **Configure Credentials:**
 
